@@ -1,0 +1,30 @@
+body,html{
+	margin:0;
+	padding:0;
+}
+body{
+	background-color:#fafafa;
+	color:#121212;
+}
+header{
+	width:100%;
+	height:5em;
+	background-color:#373737;
+	border-bottom:6px solid #01b5f0;
+}
+header > span#ob-logo{
+	position:absolute;
+	top:-5px;
+	left:8px;
+	display:inline-block;
+	margin:0 0 0 ;
+	width:82px;
+	height:82px;
+	background-image:url("https://openblox.org/~johnmh/ob_logo.png");
+	background-size:100% 100%;
+}
+header > span#ob-logo > h2{
+	display:inline-block;
+	margin:30px 0 0 90px;
+	color:#FFFFFF;
+}
