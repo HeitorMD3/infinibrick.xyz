@@ -1,0 +1,13 @@
+before_script:
+  - apt-get update -qq && apt-get install -y hugo
+  - hugo version
+
+deploy:
+  stage: deploy
+  script:
+  - hugo
+  artifacts:
+    paths:
+    - public
+  only:
+    - current
