@@ -2,7 +2,7 @@
 	"name": "OpenBlox",
 	"description": "A fully open source game engine that provides components to create simple games played in a 3D virtual space",
 	"repository": {
-		"url": "https://git.openblox.org/libopenblox.git/",
+		"url": "https://git.openblox.org/openblox/libopenblox.git",
 		"license": "LGPL v3",
 		"type": "git",
 		"tests": "https://ci.openblox.org/job/libopenblox/"
