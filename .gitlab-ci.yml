@@ -3,6 +3,7 @@ before_script:
   - hugo version
 
 deploy:
+  environment: production
   stage: deploy
   script:
   - hugo
@@ -10,4 +11,4 @@ deploy:
     paths:
     - public
   only:
-    - current
+    - production
