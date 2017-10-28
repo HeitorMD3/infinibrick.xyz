@@ -1,6 +1,0 @@
-name = "OpenBlox"
-license = "GPLv3+"
-licenselink = "https://www.gnu.org/licenses/gpl.html"
-description = "A theme for the OpenBlox project website"
-homepage = "https://git.openblox.org/openblox/website/blob/master/themes/OpenBlox/"
-min_version = "0.30.2"

@@ -1,0 +1,3 @@
+[submodule "themes/OpenBlox"]
+	path = themes/OpenBlox
+	url = https://git.openblox.org/openblox/openblox-hugo-theme.git
