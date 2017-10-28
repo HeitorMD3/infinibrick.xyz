@@ -30,8 +30,8 @@ h1, h2, h3, h4, h5, h6 {
 		text-decoration: underline;
 	}
 	header {
-		background-color: #4a86cf;
-		outline-color: #3968a1;
+		background-color: #373737;
+		outline-color: #2e2e2e;
 		outline-style: solid;
 		outline-width: thin;
 	}
