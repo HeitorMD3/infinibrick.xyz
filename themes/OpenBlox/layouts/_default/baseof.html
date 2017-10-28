@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/png" href="/logo.png" />
+		<link rel="stylesheet" type="text/css" href="/css/main.css" />
+		<title>{{ block "title" . }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+	</head>
+	<body>
+		<header>
+			{{ block "header" .}}{{ end }}
+		</header>
+		<main>
+			{{ block "main" . }}{{ end }}
+		</main>
+		<footer>
+			{{ block "footer" . }}{{ end }}
+		</footer>
+	</body>
+</html>

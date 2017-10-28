@@ -1,0 +1,6 @@
+baseURL = "https://openblox.org/"
+languageCode = "en-us"
+title = "OpenBlox"
+disableKinds = ["RSS"]
+theme = "OpenBlox"
+relativeURLs = true
