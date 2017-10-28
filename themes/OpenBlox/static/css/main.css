@@ -10,8 +10,8 @@ main {
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 35em;
-	padding-left: 0.45em;
-	padding-right: 0.45em;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
 }
 code, pre {
 	hyphens: none;
@@ -55,8 +55,8 @@ h1, h2, h3, h4, h5, h6 {
 		color: white;
 		display: flex;
 		height: 100%;
-		padding-left: 0.5em;
-		padding-right: 0.5em;
+		padding-left: 0.45em;
+		padding-right: 0.45em;
 	}
 	header > nav > ul > li > a:link:hover {
 		background-color: rgba(100%, 100%, 100%, 0.2);
