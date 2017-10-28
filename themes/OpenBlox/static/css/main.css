@@ -40,31 +40,34 @@ h1, h2, h3, h4, h5, h6 {
 		max-width: 35em;
 	}
 	header > nav > ul {
+		display: flex;
+		flex-wrap: wrap;
 		list-style-type: none;
 		margin-bottom: 0;
 		margin-top: 0;
 		padding-left: 0;
 	}
 	header > nav > ul > li {
-		display: inline-block;
-		height: 3em;
-		vertical-align: middle;
+		display: flex;
+		flex: auto;
+		min-height: 3em;
+		max-width: 7em;
 	}
 	header > nav > ul > li > a {
 		align-items: center;
 		color: white;
 		display: flex;
-		height: 100%;
-		padding-left: 0.45em;
-		padding-right: 0.45em;
+		flex: auto;
+		justify-content: space-around;
+		padding-left: 0.5em;
+		padding-right: 0.5em;
 	}
 	header > nav > ul > li > a:link:hover {
 		background-color: rgba(100%, 100%, 100%, 0.2);
 		text-decoration: none;
 	}
 	header > nav > ul > li > a > img {
-		height: 100%;
-		vertical-align: top;
+		height: 3em;
 	}
 }
 @media screen and (min-width: 35em) {
