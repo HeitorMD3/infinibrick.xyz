@@ -1,11 +1,8 @@
 <nav>
 	<ul>
 		<li><a href="/"><img alt="" src="/logo.svg"></a></li>
-		<li><a href="/">Home</a></li>
-		<li><a href="https://wiki.openblox.org/">Wiki</a></li>
-		<li><a href="https://git.openblox.org/">Repositories</a></li>
-		<li><a href="https://lists.openblox.org/">Mailing lists</a></li>
-		<li><a href="https://bugs.openblox.org/">Bugzilla</a></li>
-		<li><a href="https://ci.openblox.org/">Jenkins</a></li>
+		{{ range .Site.Menus.main }}
+		<li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+		{{ end }}
 	</ul>
 </nav>
