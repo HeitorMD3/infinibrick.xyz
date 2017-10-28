@@ -10,3 +10,6 @@ pages:
     - public
   only:
     - current
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
