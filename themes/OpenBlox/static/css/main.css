@@ -31,9 +31,9 @@ h1, h2, h3, h4, h5, h6 {
 	}
 	header {
 		background-color: #373737;
-		outline-color: #2e2e2e;
-		outline-style: solid;
-		outline-width: thin;
+		border-bottom-color: #2e2e2e;
+		border-bottom-style: solid;
+		border-bottom-width: thin;
 	}
 	header > nav {
 		margin: auto;
@@ -41,6 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 	}
 	header > nav > ul {
 		list-style-type: none;
+		margin-bottom: 0;
 		margin-top: 0;
 		padding-left: 0;
 	}
