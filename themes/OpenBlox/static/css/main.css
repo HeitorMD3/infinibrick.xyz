@@ -13,7 +13,8 @@ main {
 	padding-left: 0.5em;
 	padding-right: 0.5em;
 }
-code, pre {
+pre, code, kbd, samp {
+	font-family: "Source Code Pro", "PT Mono", "Noto Mono", "Inconsolata", "Consolas", "Menlo", monospace;
 	hyphens: none;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -22,6 +23,9 @@ h1, h2, h3, h4, h5, h6 {
 @media screen {
 	body {
 		background-color: #fafafa;
+	}
+	pre, code, kbd, samp {
+		font-size: 18px;
 	}
 	:link {
 		text-decoration: none;
