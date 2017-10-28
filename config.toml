@@ -3,5 +3,4 @@ languageCode = "en-us"
 title = "OpenBlox"
 disableKinds = ["RSS"]
 theme = "OpenBlox"
-relativeURLs = true
 uglyURLs = true
