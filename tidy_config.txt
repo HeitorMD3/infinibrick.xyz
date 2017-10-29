@@ -3,5 +3,4 @@ indent-with-tabs: yes
 omit-optional-tags: yes
 quiet: yes
 tidy-mark: no
-vertical-space: yes
 write-back: yes
