@@ -6,7 +6,7 @@ before_script:
 pages:
   script:
   - hugo
-  - find public/ -name "*.html" | while read page; do echo "Tidying $page"; tidy -config tidy_config.txt "$page"; done
+  - find public/ -name "*.html" | while read page; do echo "Tidying $page"; tidy -config tidy_config.txt "$page" || true; done
   artifacts:
     paths:
     - public
