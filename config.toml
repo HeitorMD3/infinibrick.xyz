@@ -2,6 +2,7 @@ baseURL = "https://openblox.org/"
 languageCode = "en-us"
 title = "OpenBlox"
 disableKinds = ["RSS"]
+disableHugoGeneratorInject = true
 theme = "OpenBlox"
 uglyURLs = true
 
