@@ -13,7 +13,7 @@ Stargazer hosts GNU Mailman (lists.openblox.org), ownCloud (cloud.openblox.org),
 
 ### Daedalus
 
-Daedalus is the mail gateway and the entry point for SSH access. [Bloxbot](https://git.openblox.org/openblox/bloxbot).
+Daedalus is the mail gateway and the entry point for SSH access. It is also the home of the OpenBlox project’s utility bot, [Bloxbot](https://git.openblox.org/openblox/bloxbot).
 
 ### Mars
 
