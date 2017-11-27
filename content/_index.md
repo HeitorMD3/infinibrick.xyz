@@ -13,7 +13,7 @@ At the foundation of our goals are a few guiding principles:
 * You should not have to implement complicated stuff like rendering, physics, and multiplayer networking.
 * Instead, the game engine should provide you with components you can use to create games.
 * The components should be general enough not to restrict the breadth of games that you can create.
-* The whole engine should be fully free (libre) and open source software and be available on all the major operating systems (GNU/Linux, Microsoft Windows, macOS, Android and iOS).
+* The whole engine should be fully free and available on all the major operating systems (GNU/Linux, Microsoft Windows, macOS, Android and iOS).
 * It should be easy to learn.
 
 ## Obtaining
