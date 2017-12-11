@@ -6,6 +6,9 @@ disableHugoGeneratorInject = true
 theme = "OpenBlox"
 uglyURLs = true
 
+[blackfriday]
+fractions = false
+
 [Languages.en]
 [[Languages.en.menu.main]]
 name = "Home"

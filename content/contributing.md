@@ -20,13 +20,11 @@ Donated hardware does not have to be in working condition, but it would be prefe
 
 ## Documentation
 
-Documentation of the OpenBlox game engine and related software is done on [the OpenBlox wiki](https://wiki.openblox.org). To contribute, you only need to create an account. As a measure against spam and vandalism, new accounts cannot upload files, create pages other than talk pages, or move pages. Accounts that have existed for more than five days and have more than fifteen contributions are marked as autoconfirmed and can do all these things. If you need help editing the wiki, you can see the [MediaWiki help pages](https://www.mediawiki.org/wiki/Help:Contents) or ask on [talk pages](https://www.mediawiki.org/wiki/Help:Talk_pages).
-
-Class documentation is done using the [Infobox class](https://wiki.openblox.org/wiki/Template:Infobox_class), [Property](https://wiki.openblox.org/wiki/Template:Property), [Method](https://wiki.openblox.org/wiki/Template:Method), and [Event](https://wiki.openblox.org/wiki/Template:Event) templates. You can find documentation for each of these templates on the template pages.
+Documentation of the OpenBlox game engine and related software is done [on our GitLab instance](https://git.openblox.org/openblox/api-documentation). To contribute, you only need to create an account. The GitLab documentation [provides](https://git.openblox.org/help/gitlab-basics/README.md) guides for forking the API documentation repository, committing your changes, and submitting a merge request. We will review your changes before merging them. You can ask for help on [the devel mailing list](https://lists.openblox.org/cgi-bin/mailman/listinfo/devel).
 
 ## Translation
 
-We’re always looking for translators for this website and the wiki, as well as the engine and client. If you wish to translate the wiki, contact [mark@openblox.org](mailto:mark@openblox.org).<!--TODO: (Shut up Mark) Translation of the engine, client, and studio is all done through Qt Linguist. If you need any help with that, contact [johnmh@openblox.org](mailto:johnmh@openblox.org).-->
+We’re always looking for translators for this website and the API documentation, as well as the engine and client. If you wish to translate the documentation, contact [mark@openblox.org](mailto:mark@openblox.org). To translate the engine and client, contact [johnmh@openblox.org](mailto:johnmh@openblox.org).
 
 ## Development
 
