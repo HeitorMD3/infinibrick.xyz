@@ -26,7 +26,7 @@ OpenBlox uses the Lua programming language. It provides a scripting API similar 
 
 ### Documentation
 
-OpenBlox uses Doxygen to document the C++ API. The documentation for the latest build is available [on the Jenkins server](https://ci.openblox.org/job/libopenblox/doxygen/index.html).
+OpenBlox uses Doxygen to document the C++ API. The documentation for the latest build is available [on the Jenkins server](https://ci.openblox.org/job/libopenblox/doxygen/).
 
 Documentation for the Lua API is located on [a separate site](https://docs.openblox.org).
 
