@@ -44,7 +44,7 @@ weight = 2
 name = "Dépôts"
 url = "https://git.openblox.org"
 weight = 3
-[[Languages.en.menu.main]]
+[[Languages.fr.menu.main]]
 name = "Doxygen"
 url = "https://doxygen.openblox.org"
 weight = 4
