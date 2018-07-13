@@ -1,7 +1,4 @@
-before_script:
-  - apt-get update -qq && apt-get install -y hugo tidy
-  - hugo version
-  - tidy -version
+image: registry.splentity.com/openblox/ci-build-environment/ob-hugo:latest
 
 pages:
   script:
