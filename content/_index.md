@@ -18,7 +18,7 @@ At the foundation of our goals are a few guiding principles:
 
 ## Obtaining
 
-We do not provide binaries for OpenBlox at the moment. You can download the source code from [git.openblox.org](https://git.openblox.org) and build it. You will first need to install the dependencies.
+We do not currently provide binaries for OpenBlox. You can download the source code from [git.openblox.org](https://git.openblox.org) and build it. You will first need to install the dependencies.
 
 ## Game development
 
