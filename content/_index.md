@@ -36,4 +36,4 @@ We do not provide professional support for OpenBlox. However, if you want to get
 
 ## Donating
 
-The OpenBlox project currently accepts donations with Bitcoin, Litecoin and PayPal. You can find our [current addresses](/donate.asc) signed by the project leader. While monetary contributions help keep our servers running, there are other ways to help the project. We’re always looking for new contributors, to keep OpenBlox going strong.
+The OpenBlox project currently accepts donations by PayPal. You can find our [current addresses](/donate.asc) signed by the project leader. While monetary contributions help keep our servers running, there are other ways to help the project. We’re always looking for new contributors, to keep OpenBlox going strong.
