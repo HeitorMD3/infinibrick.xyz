@@ -1,20 +1,16 @@
 ---
 title: "OBNet"
 ---
-OBNet is the network of servers that support the infrastructure used for the development of OpenBlox and other software hosted by the OpenBlox project.
+OBNet is the network of servers that support the infrastructure used for the development of OpenBlox and other software hosted by the OpenBlox project. At its peak, OBNet ran on five additional servers, named Stargazer, Mars, Ridgewell and Switch. Currently, some infrastructure used is provided by [Splentity](https://splentity.com).
 
 ## Servers
 
 OBNet comprises the servers described in this section. These servers are listed in order of addition.
 
-### Stargazer
-
-Stargazer hosts GNU Mailman (lists.openblox.org), ownCloud (cloud.openblox.org), Bugzilla (bugs.openblox.org) and Jenkins (ci.openblox.org).
-
 ### Daedalus
 
-Daedalus is the mail gateway and the entry point for SSH access. It is also the home of the OpenBlox project’s utility bot, [Bloxbot](https://git.openblox.org/openblox/bloxbot).
+Daedalus currently hosts all OpenBlox infrastructure, other than GitLab CE and build servers. The complete list of services hosted on Daedalus is as follows:
 
-### Mars
-
-Mars is a VPS hosted on DigitalOcean which hosts a ZNC bouncer for contributors. Both mars.openblox.org and developer.openblox.org resolve to Mars.
+* An email server for the OpenBlox team
+* GNU Mailman (lists.openblox.org)
+* Shell access for OB contributors
