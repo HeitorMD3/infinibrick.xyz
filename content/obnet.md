@@ -9,7 +9,7 @@ OBNet comprises the servers described in this section. These servers are listed 
 
 ### Daedalus
 
-Daedalus currently hosts all OpenBlox infrastructure, other than GitLab CE and build servers. Daedalus is a GA-G41M-ES2L, running [Libreboot](https://libreboot.org) The complete list of services hosted on Daedalus is as follows:
+Daedalus currently hosts all OpenBlox infrastructure, other than GitLab CE and build servers. Daedalus is a GA-G41M-ES2L, running [Libreboot](https://libreboot.org). The complete list of services hosted on Daedalus is as follows:
 
 * An email server for the OpenBlox team
 * GNU Mailman (lists.openblox.org)
